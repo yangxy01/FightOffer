@@ -48,5 +48,8 @@
     <ClCompile Include="48. 复杂链表的复刻.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="57. 数字序列中某一位的数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
